@@ -10,4 +10,5 @@
 ## Image through Conv layer and activation layer only.
 ![CNN_visuals_2.png](CNN_visuals_2.png)
 ## Image through Conv layer only.
+## Now a bit closer look at the headlights, tyres , grill which have been focussed in this feature map.Notice the car's number plate , how it got bigger, focussed and clearer than before.
 ![CNN_visuals_3.png](CNN_visuals_3.png)
