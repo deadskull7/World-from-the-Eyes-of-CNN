@@ -9,3 +9,5 @@
 ![CNN_visuals_1.png](CNN_visuals_1.png)
 # Image through Conv layer and activation layer only.
 ![CNN_visuals_2.png](CNN_visuals_2.png)
+# Image through Conv layer only.
+![CNN_visuals_3.png](CNN_visuals_3.png)
