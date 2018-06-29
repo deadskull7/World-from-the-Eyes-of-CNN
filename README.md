@@ -5,7 +5,7 @@
 ![activation_map_lady.png](activation_map_lady.png) 
 ![activation_map_me.png](activation_map_me.png)
 
-## Image through convolutional layer , maxpool layer and a activation layer
+## Image through convolutional layer , maxpool layer and an activation layer
 ![CNN_visuals_1.png](CNN_visuals_1.png)
 ## Image through Conv layer and activation layer only.
 ![CNN_visuals_2.png](CNN_visuals_2.png)
