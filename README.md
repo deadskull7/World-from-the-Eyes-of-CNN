@@ -5,9 +5,9 @@
 ![activation_map_lady.png](activation_map_lady.png) 
 ![activation_map_me.png](activation_map_me.png)
 
-## Image through convolutional layer , maxpool layer and an activation layer
+## Image through convolutional layer , maxpool layer and an activation layer. 
 ![CNN_visuals_1.png](CNN_visuals_1.png)
-## Image through Conv layer and activation layer only.
+## Image through Conv layer and activation layer only. Notice the edges of the car in the softmax activated feature map.
 ![CNN_visuals_2.png](CNN_visuals_2.png)
 ## Image through Conv layer only.
 ## Now a bit closer look at the headlights, tyres , grill which have been focussed in this feature map.Notice the car's number plate , how it got bigger, focussed and clearer than before.
