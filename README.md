@@ -6,6 +6,7 @@
 ![activation_map_me.png](activation_map_me.png)
 
 ## Image through convolutional layer , maxpool layer and an activation layer. 
+## The image would even give a twinkling effect on scrolling due to enough noise !!!
 ![CNN_visuals_1.png](CNN_visuals_1.png)
 ## Image through Conv layer and activation layer only. Notice the edges of the car in the softmax activated feature map.
 ![CNN_visuals_2.png](CNN_visuals_2.png)
